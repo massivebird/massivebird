@@ -8,4 +8,4 @@ I am Garrett, and I go by many bird names.
 
 - 🚂 I work in Neovim because it looks cooler
 - 🍊 I'm learning Clojure because it makes sense
-- 🐦 My favorite birds are the Northern Cardinal and the Shoebill
+- 🐧 My favorite birds are penguins and the Shoebill
