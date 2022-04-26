@@ -4,8 +4,8 @@
 
 ### 🐤💬 Hello there
 
-I am Garrett, and I go by many bird names.
+I am Garrett! I like playing Death Stranding.
 
-- 🚂 I work in Neovim because it looks cooler
-- 🍊 I'm learning Clojure because it makes sense
+- 🍊 I love programming in Bash and Clojure
+- 🚙 I am currently exploring Fedora Linux
 - 🐧 My favorite birds are penguins and the Shoebill
