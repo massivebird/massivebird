@@ -6,6 +6,6 @@
 
 I am Garrett! I like playing Death Stranding.
 
-- 🍊 I love programming in Bash and Clojure
-- 🚙 I am currently exploring Fedora Linux
-- 🐧 My favorite birds are penguins and the Shoebill
+- 🍊 I like programming in Java, Clojure, and Bash
+- 🚙 Fedora Linux + Sway and i3
+- 🐧 My favorite birds are the Emperor Penguin and the Shoebill
