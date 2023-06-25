@@ -7,5 +7,5 @@
 I'm Garrett! I like listening to King Gizzard and the Lizard Wizard.
 
 - 🍊 I program in Rust, Java, Clojure, and Bash
-- 🚙 Fedora Linux + Sway and i3
+- 🚙 NixOS + Sway
 - 🐧 My favorite birds are the Emperor Penguin and the Shoebill
