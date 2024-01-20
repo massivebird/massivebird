@@ -4,7 +4,7 @@
 
 ### 🐤💬 Hello there
 
-I'm Garrett! I like listening to King Gizzard and the Lizard Wizard.
+I'm Garrett! I like listening to LCD Soundsystem.
 
 - 🍊 I program in Rust, Java, Clojure, and Bash
 - 🚙 NixOS + Sway
